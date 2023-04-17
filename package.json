@@ -31,5 +31,9 @@
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.8.7",
     "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "leadvm": "github:LeadFisherSolutions/leadvm",
+    "leadwatch": "github:LeadFisherSolutions/leadwatch"
   }
 }
